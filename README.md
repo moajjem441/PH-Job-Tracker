@@ -51,6 +51,7 @@ For a smoother development workflow, serve the folder with any local static serv
 
 The page requires an internet connection when it loads because Tailwind CSS, daisyUI, Font Awesome, and Google Fonts are loaded from CDNs.
 
+
 ## How to Use
 
 1. Start on the **All** view to see the available jobs.
